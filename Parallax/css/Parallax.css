@@ -1,0 +1,46 @@
+.parallax{
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 0;
+    position: relative;
+}
+
+.title{
+    color: #fff;
+    font-size: 3rem;
+    text-shadow: 2px 2px 0 #fbc531;
+    position: absolute;
+    background-color: rgba(0,0,0,0.6);
+    padding: 1rem;
+    line-height: 1.5;
+    width: 15rem;
+    bottom: 3rem;
+    left: 10%;
+}
+
+h1{
+    color: #fff;
+}
+
+p{
+    color: #fff;
+}
+
+/* Definindo as imagens das Div */
+.divissor1{
+    background-image: url("https://clinicadc.com.br/wp-content/uploads/2018/04/2018-04-18.jpg");
+}
+.divissor2{
+    background-image: url("https://brasiltelemedicina.com.br/wp-content/uploads/2018/04/shutterstock_776025454-1200x800.jpg");
+}
+.divissor3{
+    background-image: url("https://conteudo.imguol.com.br/c/noticias/3c/2019/04/02/inteligencia-artificial-algoritmo-tecnologia-codigo-de-programacao-1554210815064_v2_615x300.jpg")
+}
+.divissor4{
+    background-image: url("https://www.informa.com.br/wp-content/uploads/2021/01/21013_Artigo19_Inteligencia_Artificial_Set20_Img_blog.png");
+}
+.divissor5{
+    background-image: url("http://auditeste.com.br/wp-content/uploads/2020/01/inteligencia_artificial.jpg")
+}
